@@ -1,4 +1,6 @@
 public class C {
   
-  system.out.println("aaaaaaaaaa");
+ public static void main(String[] args) {
+        System.out.println("aaaaaaaaaaaaaaaa");
+    }
 }
